@@ -1,0 +1,18 @@
+h2{
+    position: relative;
+    top: -370px;
+    left: 526px;
+    color: white;
+    font-size: 35px;
+    font-family:arial;
+}
+
+span{
+    background-color: black;
+    color: white;
+    font-size:37px;
+}
+
+img{
+    width: 100%;
+}
