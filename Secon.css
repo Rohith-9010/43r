@@ -1,0 +1,20 @@
+.contain{
+    width: 90%;
+    height: 600px;
+    border: 2px solid rgb(250, 246, 246);
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.child1, .child2, .child3, .child4{
+     display: inline-block;
+    width: 250px;
+    height: 500px;
+    /* margin-left: 30px; */
+    /* height: 600px; */
+    border: 1px solid green;
+}
+
+img{
+    width: 100%;
+}
