@@ -1,0 +1,129 @@
+h2{
+    position: relative;
+    top: -370px;
+    left: 526px;
+    color: white;
+    font-size: 35px;
+    font-family:arial;
+}
+
+span{
+    background-color: black;
+    color: white;
+    font-size:37px;
+}
+
+.img1{
+    width: 100%;
+}
+
+.Main-Container{
+
+    display: inline-block;
+
+    color: black;
+    background-color: white;
+    margin-top: 10px;
+   
+}
+
+.sub-container1{
+    display: inline-block;
+    position: relative;
+   
+    margin-left: 30px;
+}
+.sub-container2{
+    display: inline-block;
+    position: relative;
+    margin-left: 30px;
+ }
+p{
+     padding-top: 5px ;
+     position: fixed;
+     top: 0px;
+     left: 0px;
+     margin-top: 0px;
+     margin-left: 0px;
+     background-color: black;
+     color: white;
+
+} 
+.main1{
+    position: relative;
+    display: inline-block;
+}
+
+.main2{
+    position: relative;
+    display: inline-block;
+}
+.main3{
+    position: relative;
+    display: inline-block;
+}
+.main4{
+    position: relative;
+    display: inline-block;
+}
+.main5{
+    position: relative;
+    display: inline-block;
+}
+.main6{
+    position: relative;
+    display: inline-block;
+}
+.main7{
+    position: relative;
+    display: inline-block;
+}
+.main8{
+    position: relative;
+    display: inline-block;
+}
+
+
+
+
+.sub1{
+    position: absolute;
+    padding: 5px;
+}
+.sub2{
+    position: absolute;
+    padding: 5px;
+}
+.sub3{
+    position: absolute;
+    padding: 5px;
+}
+.sub4{
+    position: absolute;
+    padding: 5px;
+}
+.sub5{
+    position: absolute;
+    padding: 5px;
+}
+.sub6{
+    position: absolute;
+    padding: 5px;
+}
+.sub7{
+    position: absolute;
+    padding: 5px;
+}
+.sub8{
+    position: absolute;
+    padding: 5px;
+}
+
+
+img{
+    width: 250px;
+}
+
+h3{
+     margin-left: 30px;
+}
