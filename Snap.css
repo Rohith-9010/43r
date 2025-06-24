@@ -1,0 +1,166 @@
+.main-container{
+    margin: 50px;
+    margin-left: 360px;
+    margin-right: 510px ;
+    border: 1px solid;
+
+
+}
+.top-container{
+    
+    border: 1px solid;
+    height: 60px;
+    position: relative;
+    /* background-color:black;
+    color: white; */
+
+}
+.ig{
+    display: inline-block;
+    border: 2px ;
+    position: absolute;
+    top:22px;
+}
+.img{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 55px;
+}
+.mid-container{
+     border: 1px solid;
+     height: 425px;
+     position: relative;   
+}
+
+.mid-1{
+   position: sticky;
+   z-index: -1;
+  
+}
+.img4{
+    position: absolute;
+    width: 373px;
+    height: 425px;
+}
+.p{
+    position: fixed;
+    margin-top:5px;
+    margin: 0px;
+    font-size: 10px;
+}
+.date{
+    padding-left: 150px;
+   font-size: 13px;
+}
+.p1{
+    color: red;
+    margin-top: 2px;
+    margin-bottom: 3px;
+    font-size: 15px;
+     padding: 1px;
+}
+.con-1{
+    display: inline-block ;
+    margin-left: 2px;
+    color: black;
+    padding-left: 2px;
+    border-left: 2px red solid;
+     
+}
+.con{
+    padding: 1px;
+}
+.p2{
+    color:blue;
+}
+.con-2{
+    display: inline-block ;
+    margin-left: 2px;
+    color: black;
+    border-left: 2px blue solid;
+   padding: 2px;
+} 
+.end-container{
+
+    position: relative;
+     border: 1px solid;
+    height: 60px;
+
+}
+.backnavigation{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 30px;
+    height: 30px;
+}
+.icon{
+    position: relative;
+    top:22px;
+    left: 50px;
+    width: 30px;
+    height: 20px;
+}
+
+h2{
+    
+    color:red;
+    position: absolute;
+    top: 0px;
+    bottom: 1px;
+    left: 90px;
+
+}
+.call
+{
+   position: absolute;
+    top:22px;
+    right: 65px;
+}
+.video{
+   position: absolute;
+    top:22px;
+    right: 30px;
+
+}
+.camera{
+    position: relative;
+    top:22px;
+    left: 17px;
+    width: 25px;
+    height: 20px;
+
+}
+
+.input{
+    border-radius: 13px;
+    padding: 4px;
+     position: absolute;
+    top:15px;
+    right: 120px;
+    width:190px;
+    height: 20px;
+}
+.mic{
+    position: absolute;
+    top:23px;
+    right: 130px;
+    bottom: 2px;
+}
+.emoji{
+    position: absolute;
+    top:22px;
+    right: 95px;
+}
+.photos{
+    position: absolute;
+    top:22px;
+    right: 65px;
+}
+.maps{
+     position: absolute;
+    top:22px;
+    right: 30px;
+}
+
