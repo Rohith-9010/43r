@@ -1,0 +1,80 @@
+.big-box{
+    width: 800px;
+    height: 812px;
+     border: 2px solid;
+    /* justify-items: center;
+    align-items: center; */
+    margin-left: 100px;
+    
+
+}
+.first,.second,.third,.four,.five,.six,.seven,.eight{
+    display: flex;
+}
+.first :nth-child(odd){
+    background-color: aqua;
+}
+.second :nth-child(even){
+    background-color: aqua;
+}
+.third :nth-child(odd){
+    background-color: aqua;
+}
+.four :nth-child(even){
+    background-color: aqua;
+}
+.five :nth-child(odd){
+    background-color: aqua;
+}
+.six :nth-child(even){
+    background-color: aqua;
+}
+.seven :nth-child(odd){
+    background-color: aqua;
+}
+.eight :nth-child(even){
+    background-color: aqua;
+}
+/* .second,.four,.six,.eight :nth-child(odd){
+    background-color: aqua;
+} */
+/* .first{
+    display: inline-block;
+    border: 2px solid;
+}
+.second{
+    display: inline-block;
+     border: 2px solid;
+}
+.third{
+    display: inline-block;
+     border: 2px solid;
+}
+.four{
+    display: inline-block;
+     border: 2px solid;
+}
+.five{
+    display: inline-block;
+     border: 2px solid;
+}
+.six{
+    display: inline-block;
+     border: 2px solid;
+}
+.seven{
+    display: inline-block;
+     border: 2px solid;
+}
+.eight{
+    display: inline-block;
+     border: 2px solid;
+} */
+
+.item{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+    text-align: center;
+}
